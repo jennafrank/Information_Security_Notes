@@ -208,4 +208,61 @@
 
 ---
 
+## 🧨 Software Attacks and Malware
+
+### 💣 Deliberate Software Attacks
+- Carefully designed malicious code used to:
+  - Trick users via social engineering
+  - Infect systems and spread laterally
+  - Steal, encrypt, or damage data
+  - Recruit bots/zombies for further attack
+
+### 🦠 Malware Types
+- **Virus**: Attaches to files/programs, spreads via replication
+  - Types: Macro virus, Boot virus, Executables (.exe, .com), Resident vs. Non-resident
+- **Worm**: Self-replicating, spreads across networks, no user interaction needed
+- **Trojan Horse**: Disguised as legitimate software
+- **Polymorphic Threat**: Evolves code to evade detection
+- **Hoaxes**: Fake virus warnings causing confusion, resource waste
+
+### 🔐 Back Doors
+- Secret pathways left in or added to software for later access
+- Also called **trap doors** or **maintenance hooks**
+- Often installed by attackers or lazy developers
+
+### 🌊 DoS and DDoS
+- **DoS**: Floods system with traffic, making it unusable
+- **DDoS**: Multiple compromised systems (bots/zombies) launch attack
+  - Hard to mitigate, considered cyber “weapons of mass destruction”
+
+### 📩 Email Attacks
+- Common types:
+  - Spam
+  - Malware attachments
+  - Phishing/clickbait
+  - Mail bomb (email-based DoS)
+- Dangers: system infection, resource drain, user error
+
+### 📡 Communications Interception
+- **Packet Sniffers**: Monitor traffic, may capture plain text passwords
+- **Spoofing**: Fake IP addresses
+- **Pharming**: Redirects user to malicious site without action
+- **Man-in-the-Middle**: Intercepts and alters traffic (e.g., session hijacking)
+
+---
+
+## ⚙️ Technical Failures
+
+### 💻 Hardware Failures
+- Caused by manufacturing flaws or physical stress
+- Common in hard drives (MTBF ≈ 500,000 hours)
+- **MTBF = MTTF + MTTD + MTTR**
+
+### 🧠 Software Failures
+- Bugs, logic errors, untested combinations
+- May include **trap doors** left intentionally
+- See Security Focus’s Bugtraq for real-world bug reports
+
+---
+
 > "Security isn’t just about defense—it’s about resilience, readiness, and responsibility."
