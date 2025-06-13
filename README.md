@@ -27,6 +27,7 @@ info-sec-notes/
 ├── study-guide/
 │   ├── ch_one_glossay.md
 │   ├── ch_one_notes.md
+│   ├── ch_one_review_questions.md
 │
 ├── labs/
 │   ├── password-policy-lab.md
