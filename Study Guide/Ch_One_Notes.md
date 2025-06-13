@@ -11,7 +11,7 @@
 
 ---
 
-## 🔁 The Shift from IT to Information Security
+## ♻️ The Shift from IT to Information Security
 - In the past, tech was managed solely by IT staff and housed in centralized data centers.
 - Today, data and devices are everywhere—on laptops, phones, and in the cloud.
 - Employees work from home, travel, or connect from multiple locations.
@@ -49,7 +49,7 @@
 
 ---
 
-## 🏛️ The Importance of Policy
+## 🏩 The Importance of Policy
 - **Security policy** = a formalized statement outlining rules for protecting information assets.
 - Policies help set clear expectations and ensure consistency across systems, teams, and procedures.
 - Policy must be:
@@ -59,7 +59,7 @@
 
 ---
 
-## 🧩 Components of a Complete InfoSec Program
+## 🧹 Components of a Complete InfoSec Program
 1. **Hardware** – Servers, workstations, firewalls
 2. **Software** – Operating systems, security tools, antivirus
 3. **Networks** – Communication paths, routers, switches
@@ -69,7 +69,7 @@
 
 ---
 
-## 🔄 Lifecycle of Information Security Management
+## ♻️ Lifecycle of Information Security Management
 - A security program evolves over time and includes:
   - **Planning** – Identifying assets and potential risks
   - **Implementing** – Deploying safeguards and training
@@ -79,20 +79,133 @@
 
 ---
 
-## 🛑 Common Barriers to Strong Security
-- Lack of funding
-- Insufficient training or awareness
-- Underestimation of internal threats
-- Poorly defined policies or enforcement
+## 🧱 Principles of Information Security Management
+
+### 🎯 InfoSec vs. IT Management
+- InfoSec management shares general leadership traits with IT and business management but focuses specifically on the secure operation of the organization.
+- While IT aims for speed and efficiency in data processing, InfoSec prioritizes confidentiality, integrity, and availability—sometimes creating conflicts in priorities.
+- The **Chief Information Security Officer (CISO)** usually reports to the **Chief Information Officer (CIO)**, which may create tension if upper management doesn’t support security needs.
+
+### 🔑 The Six Ps of InfoSec Management
+1. **Planning**
+   - Aligns InfoSec strategy with business and IT strategies.
+   - Strategic, tactical, and operational levels of planning
+   - Types of plans: incident response, disaster recovery, risk management, etc.
+
+2. **Policy**
+   - **EISP**: Enterprise-wide guidance
+   - **ISSPs**: Rules for specific services (email, web)
+   - **SysSPs**: Implementation details for systems
+
+3. **Programs**
+   - SETA: Security Education, Training, and Awareness
+   - Risk management, disaster recovery, and business continuity
+
+4. **Protection**
+   - Risk management activities and safeguards
+
+5. **People**
+   - Includes both InfoSec staff and general employees
+   - Personal data protection and training
+
+6. **Projects**
+   - Each security initiative managed as a project
 
 ---
 
-## ✅ Key Takeaways
-- Information security is more than IT—it’s an organizational mindset and strategy.
-- Everyone from executives to entry-level staff must understand their role.
-- Clear policies, constant monitoring, and regular training are essential.
-- The threats are evolving—so our defenses must evolve too.
+## 👨‍🏫 Why Learn InfoSec Management? (Henry Bonin Viewpoint)
+- InfoSec is growing with more expectations and risks.
+- Understanding management roles and responsibilities enhances your value.
+- Skills developed: risk assessments, planning, policy, hiring, strategic leadership.
+- Managing InfoSec is different from traditional IT project management.
 
 ---
 
-> “Security isn’t just about defense—it’s about resilience, readiness, and responsibility.”
+## 📚 OWASP Top 10 Web App Vulnerabilities (2017)
+1. Injection
+2. Broken authentication/session management
+3. Cross-site scripting (XSS)
+4. Broken access control
+5. Security misconfiguration
+6. Sensitive data exposure
+7. Insufficient attack protection
+8. Cross-site request forgery (CSRF)
+9. Components with known vulnerabilities
+10. Underprotected APIs
+
+---
+
+## ☠️ Deadly Sins of Software Security
+
+### Web Application Sins
+- **SQL injection**: Poor input validation
+- **XSS, CSRF, Response Splitting**: Exploit server/client rendering
+- **Magic URLs, cookies**: Sensitive state data exposed or manipulated
+
+### Implementation Sins
+- Buffer overflows, format strings, integer overflows
+- Misuse of C++ features, exception handling, command injection
+- Information leakage, race conditions, poor usability
+- Poor update processes, excessive privileges, failure to protect data
+
+### Cryptographic Sins
+- Weak passwords, poor random number generation
+- Using weak or incorrect cryptographic methods
+
+### Networking Sins
+- Failure to encrypt network traffic
+- Poor SSL/PKI practices
+- DNS poisoning and trusting name resolution
+
+---
+
+## 🚀 Other Key Topics
+
+### ⏳ Technological Obsolescence
+- Old systems increase risk (e.g., Windows XP after end-of-life)
+
+### 🚓 Theft
+- Physical theft is noticeable; electronic theft is stealthy
+- Overlaps with attacks, espionage, extortion, etc.
+
+### 🤝 Blended Threats
+- Real-world attacks combine many categories (e.g., Duqu malware)
+
+---
+
+## 💼 Management & Leadership in InfoSec
+
+### Roles of Managers
+- **Informational**: Gather/analyze data
+- **Interpersonal**: Collaborate with stakeholders
+- **Decisional**: Make judgments, resolve issues
+
+### Leadership Styles
+- **Autocratic**: Top-down control
+- **Democratic**: Consensus-based decisions
+- **Laissez-faire**: Hands-off management
+- Good leaders mix styles based on situation
+
+### POLC Management Model
+- **Planning**: Long (strategic), medium (tactical), short (operational)
+- **Organizing**: Structure people/resources
+- **Leading**: Guide teams to meet objectives
+- **Controlling**: Ensure progress and apply corrective actions
+
+### Governance
+- Strategic oversight by top-level execs or board
+- Focus: risk management, performance metrics, compliance
+
+---
+
+## ⚖️ Problem Solving Framework
+1. **Define the problem**
+2. **Gather facts and assumptions**
+3. **Develop possible solutions**
+4. **Analyze feasibility of each**
+   - Economic, technological, behavioral, operational
+5. **Select, implement, and evaluate**
+
+---
+
+> "Security isn’t just about defense—it’s about resilience, readiness, and responsibility."
