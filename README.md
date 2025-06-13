@@ -21,8 +21,8 @@ info-sec-notes/
 │   ├── iso-9001-and-27001.md
 │
 ├── research/
-│   ├── ai-in-cybersecurity-paper.md
-│   ├── zero-trust-architecture.md
+│   ├── ISO_NIST_Research_Paper.md
+│   └── ISO_NIST_Research_Paper.pdf
 │
 ├── study-guides/
 │   ├── midterm-guide.md
@@ -34,6 +34,23 @@ info-sec-notes/
 │
 └── README.md
 ```
+
+---
+
+## 📄 Featured Research Paper: ISO + NIST
+
+This repo includes a full-length research paper titled  
+**“Exploring ISO and NIST Frameworks for Organizational Excellence”**, written for my Information Systems Management course.
+
+The paper explains how standards like **ISO 9001**, **ISO/IEC 27001**, and the **NIST Cybersecurity Framework (CSF)** help organizations enhance security, streamline operations, and build long-term resilience.
+
+- 📄 [View the paper in Markdown](./research/ISO_NIST_Research_Paper.md)
+- 📎 [Download the paper as PDF](./research/ISO_NIST_Research_Paper.pdf)
+
+This writing sample demonstrates my ability to connect technical frameworks to real-world business impact, a key skill in both cybersecurity and compliance roles.
+
+---
+
 
 ---
 
