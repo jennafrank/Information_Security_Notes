@@ -37,20 +37,21 @@ info-sec-notes/
 
 ---
 
-## 📄 Featured Research Paper: ISO + NIST
-
-This repo includes a full-length research paper titled  
-**“Exploring ISO and NIST Frameworks for Organizational Excellence”**, written for my Information Systems Management course.
-
-The paper explains how standards like **ISO 9001**, **ISO/IEC 27001**, and the **NIST Cybersecurity Framework (CSF)** help organizations enhance security, streamline operations, and build long-term resilience.
-
-- 📄 [View the paper in Markdown](./research/ISO_NIST_Research_Paper.md)
-- 📎 [Download the paper as PDF](./research/ISO_NIST_Research_Paper.pdf)
-
-This writing sample demonstrates my ability to connect technical frameworks to real-world business impact, a key skill in both cybersecurity and compliance roles.
+Absolutely, Jenna! Here's the updated section for your `README.md` using your **GitHub-hosted links** to the research paper. You can copy and paste this directly into your file under the `## 📁 Folder Structure` section (or wherever you'd like it to appear):
 
 ---
 
+### ✅ 📄 Featured Research Paper: ISO + NIST
+
+This repo includes a full-length research paper titled
+**“Exploring ISO and NIST Frameworks for Organizational Excellence,”** written for my *Information Systems Management* course at Rose State College.
+
+The paper explores how internationally recognized frameworks like **ISO 9001**, **ISO/IEC 27001**, and the **NIST Cybersecurity Framework (CSF)** guide organizations toward better risk management, stronger security postures, and long-term operational success.
+
+* 📄 [Read the paper in Markdown](https://github.com/jennafrank/Information_Security_Notes/blob/main/Research/ISO_NIST_Research/ISO_NIST_Research_Paper.md)
+* 📎 [Download the paper as PDF](https://github.com/jennafrank/Information_Security_Notes/blob/main/Research/ISO_NIST_Research/ISO_NIST_Research_Paper.md)
+
+This research highlights how cybersecurity isn't just a technical field—it's also strategic. It combines my technical training with policy awareness and strong written communication, a skill set that’s valuable in compliance, audit, and governance-focused roles.
 
 ---
 
