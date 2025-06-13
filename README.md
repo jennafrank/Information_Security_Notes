@@ -24,9 +24,9 @@ info-sec-notes/
 │   ├── ISO_NIST_Research_Paper.md
 │   └── ISO_NIST_Research_Paper.pdf
 │
-├── study-guides/
-│   ├── midterm-guide.md
-│   ├── final-review-checklist.md
+├── study-guide/
+│   ├── ch_one_glossay.md
+│   ├── ch_one_notes.md
 │
 ├── labs/
 │   ├── password-policy-lab.md
