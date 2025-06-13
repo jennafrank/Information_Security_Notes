@@ -113,11 +113,80 @@
 
 ---
 
+## ♻️ Lifecycle of Information Security Management
+- A security program evolves over time and includes:
+  - **Planning** – Identifying assets and potential risks
+  - **Implementing** – Deploying safeguards and training
+  - **Monitoring** – Tracking threats, logs, and policy adherence
+  - **Responding** – Reacting to incidents and recovering from them
+- This is a **continuous improvement cycle**, similar to quality management in other industries.
+
+---
+
 ## 👨‍🏫 Why Learn InfoSec Management? (Henry Bonin Viewpoint)
 - InfoSec is growing with more expectations and risks.
 - Understanding management roles and responsibilities enhances your value.
 - Skills developed: risk assessments, planning, policy, hiring, strategic leadership.
 - Managing InfoSec is different from traditional IT project management.
+
+---
+
+## ⚠️ Threat Categories (Detailed Summaries Coming Next)
+
+### 🚧 Deviations in Quality of Service
+- Modern businesses depend on many **interdependent support systems**: power grids, ISPs, water, janitorial services, etc.
+- If any of these experience **interruptions** (e.g., weather, accidents, illness), **availability** of IT systems can be compromised.
+- **Forms of disruption**:
+  - **Internet service issues**: ISP outages can halt operations for remote workers or customer-facing services. Web hosts failing their **Service Level Agreement (SLA)** obligations may cause downtime and reputational damage.
+  - **Communications & utility issues**: Loss of phone, water, HVAC, waste removal can shut down operations. Example: Without water, A/C can fail, leading to overheating and shutdowns.
+  - **Power irregularities**: Include blackouts, brownouts, spikes, surges, sags, and electrical noise. Can damage networking/computing hardware.
+    - Solution: **Uninterruptible Power Supplies (UPS)** and power conditioning equipment.
+
+---
+
+### 🕵️‍♂️ Espionage or Trespass
+- **Definition**: Unauthorized access to protected information with the intent to gather intelligence.
+- **Legal vs. Illegal**:
+  - **Competitive Intelligence**: Legal market research.
+  - **Industrial Espionage**: Illegal access to sensitive data, often by competitors or foreign governments.
+- **Techniques**:
+  - **Shoulder Surfing**: Observing someone’s screen or keyboard to steal info.
+  - **Social Engineering**: Manipulating people to divulge confidential info.
+### 🤖 Hackers
+- **Trespassers** that bypass controls using skills, tools, or trickery.
+- **Types**:
+  - **Expert Hacker**: Knows code, protocols, OSs.
+  - **Professional Hacker**: Paid by crime orgs or govs.
+  - **Penetration Tester**: Authorized to test systems.
+  - **Script Kiddie**: Uses other people’s tools.
+- **Advanced Persistent Threat (APT)**:
+  - Long-term, targeted attacks using phishing, malware.
+  - Often by nation-states or organized crime.
+- **Privilege Escalation**: Gaining admin/root access.
+  - **Jailbreaking/Rooting**: User-side privilege escalation.
+- **Other Terms**:
+  - **Cracker**: Breaks protection schemes.
+  - **Phreaker**: Manipulates telecom systems (historical).
+
+---
+
+### 🔑 Password Attacks
+- Passwords are often the **first line of defense** and thus frequently targeted.
+- **Brute Force Attack**:
+  - Attacker tries all possible combinations until one works.
+- **Dictionary Attack**:
+  - Attacker uses precompiled lists of common passwords.
+- **Rainbow Tables**:
+  - Precomputed hash tables used to crack password hashes.
+- **Hybrid Attack**:
+  - Combines dictionary + mutation techniques (e.g., pa$$word123).
+- **Countermeasures**:
+  - Strong password policies (length, complexity)
+  - Account lockouts after failed attempts
+  - Use of **Multi-Factor Authentication (MFA)**
+  - Salting hashes to thwart rainbow tables
+
+---
 
 ---
 
