@@ -38,10 +38,6 @@ info-sec-notes/
 
 ---
 
-Absolutely, Jenna! Here's the updated section for your `README.md` using your **GitHub-hosted links** to the research paper. You can copy and paste this directly into your file under the `## 📁 Folder Structure` section (or wherever you'd like it to appear):
-
----
-
 ### ✅ 📄 Featured Research Paper: ISO + NIST
 
 This repo includes a full-length research paper titled
